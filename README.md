@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Manjinder Singh
+- 👀 I’m interested in Programming
+- 🌱 I’m currently learning php
+- 💞️ I’m looking to collaborate on Web Development Projects
